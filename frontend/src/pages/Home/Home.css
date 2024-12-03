@@ -1,0 +1,52 @@
+li{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.bi-1-square-fill{
+    color: #007090;
+    
+}
+.bi-2-square-fill{
+    color: #4D93AA;
+    
+}
+.bi-3-square-fill{
+    color: #609EB2;
+    
+}
+.bi-4-square, .bi-5-square, .bi-6-square, .bi-7-square,.bi-8-square, .bi-9-square{
+    color: #78ABBC ;
+    
+}
+.ten-square{
+color: #78ABBC;
+}
+.frequencia-autor{
+    margin-right: 15px;
+}
+.div-btn-new{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.btn-new{
+    background-color: #007090;
+    color: #fff;
+    border: none;
+}
+.btn-new:hover{
+    background-color: #4D93AA;
+    color: #fff;
+}
+
+.tabela-container{
+    background-color: #fff;
+    padding: 10px;
+
+}
+/* .col-pie{
+    height: 40%;
+    display: flex;
+    align-items: center;
+} */
